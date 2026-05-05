@@ -1,4 +1,6 @@
-# Ren'Py Universal VibeVoice TTS
+# Please use https://github.com/balu100/RenpyUniversalTTS
+
+## Ren'Py Universal VibeVoice TTS
 
 A drop-in Ren'Py script that replaces Ren'Py self-voicing with low-latency
 VibeVoice TTS.
